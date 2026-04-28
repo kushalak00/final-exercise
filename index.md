@@ -13,13 +13,7 @@ In this project, I analyzed how COMP 110 can be improved to create more value fo
 ---
 
 ## My Idea: Recorded Lecture Videos
-**The Idea:** The course should post recorded lecture videos for students who didn't understand everything in the large lecture hall.
-
-
-**Value Created:** This creates value for 
-
-
-**Students** by providing flexibility. It allows them to go back on their own time to better understand difficult content that might have moved too quickly during the live session.
+The course should post recorded lecture videos for students who didn't understand everything in the large lecture hall. This creates value for students by providing flexibility. It allows them to go back on their own time to better understand difficult content that might have moved too quickly during the live session.
 
 ---
 
