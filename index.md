@@ -15,7 +15,9 @@ In this project, I analyzed how COMP 110 can be improved to create more value fo
 ## My Idea: Recorded Lecture Videos
 **The Idea:** The course should post recorded lecture videos for students who didn't understand everything in the large lecture hall.
 
+
 **Value Created:** This creates value for 
+
 
 **Students** by providing flexibility. It allows them to go back on their own time to better understand difficult content that might have moved too quickly during the live session.
 
@@ -27,17 +29,17 @@ I performed an analysis to see if students who feel the course moves quickly are
 ### 1. Course Pace vs. Video Effectiveness (Scatter Plot)
 This scatter plot shows every student's response. We can see that many students who rated the pace as a 6 or 7 also gave a high rating for the effectiveness of lesson videos.
 
-<img src="./static/imgs/scatterplot.png" alt="Scatter Plot of Pace vs Video Effectiveness" width="600"/>
+<img src="./static/imgs/scatter.png" alt="Scatter Plot of Pace vs Video Effectiveness" width="600"/>
 
 ### 2. Trends in Student Support (Line Plot)
 The line plot shows the average effectiveness rating across different pace levels. There is a visible upward trend, meaning as the pace gets faster, the perceived value of video resources increases.
 
-<img src="./static/imgs/lineplot.png" alt="Line Plot showing average effectiveness" width="600"/>
+<img src="./static/imgs/line.png" alt="Line Plot showing average effectiveness" width="600"/>
 
 ### 3. Average Effectiveness by Pace (Bar Plot)
 This bar plot compares the average effectiveness score for each group. It clearly shows that the students in the "Fastest Pace" category rely most heavily on video-based instruction.
 
-<img src="./static/imgs/barplot.png" alt="Bar Plot of average effectiveness scores" width="600"/>
+<img src="./static/imgs/bar.png" alt="Bar Plot of average effectiveness scores" width="600"/>
 
 ---
 
